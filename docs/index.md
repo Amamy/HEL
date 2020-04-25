@@ -1,6 +1,7 @@
 # Happy Excel Life
 
 [Test](/test.md)
+[Test](/docs/test.md)
 [Test](/test.html)
 [Test](/test)
 
