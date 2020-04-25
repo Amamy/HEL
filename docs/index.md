@@ -2,8 +2,8 @@
 
 [Test](/test.md)
 [Test](/docs/test.md)
-[Test](/test.html)
-[Test](/test)
+[Test](test.md)
+[Test](docs/test.md)
 
 ## 関数
 
